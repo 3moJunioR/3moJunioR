@@ -11,9 +11,9 @@
 
 - 🔧 I'm a **Backend Developer** who loves building scalable and clean backend systems.
 - 🌱 Currently learning more about **Docker, System Design & Microservices**.
-- 💬 Ask me about **APIs, Databases, Node.js, Python, and backend best practices**.
+- 💬 Ask me about **APIs, Databases, .NET , Python, and backend best practices**.
 - 📫 Reach me at: `m.wa7ba@gmail.com`
-- ⚡ Fun fact: I enjoy turning coffee into backend logic ☕️
+- ⚡ Fun fact: I enjoy turning tea into backend logic 🫖🍵
 
 ---
 
@@ -37,8 +37,8 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mohamedwahba22&show_icons=true&theme=tokyonight" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mohamedwahba22&layout=compact&theme=tokyonight" />
+  <img src="https://github-readme-stats.vercel.app/api?username=3moJunior&show_icons=true&theme=tokyonight" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3moJunior&layout=compact&theme=tokyonight" />
 </p>
 
 ---
