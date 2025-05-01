@@ -46,5 +46,5 @@
 ### 🌐 Connect with me
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedwahba22)
-[![X](https://img.shields.io/badge/-@3moJunior-1DA1F2?style=flat&logo=x&logoColor=black)](https://x.com/3moJunior)
+[![X](https://img.shields.io/badge/-3moJunior-1DA1F2?style=flat&logo=x&logoColor=black)](https://x.com/3moJunior)
 [![Gmail](https://img.shields.io/badge/-m.wa7ba@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:m.wa7ba@gmail.com)
