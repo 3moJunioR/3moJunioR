@@ -13,7 +13,7 @@
 - 🔧 I'm a **Backend Developer** who loves building scalable and clean backend systems.
 - 🌱 Currently learning more about **Docker, System Design & Microservices**.
 - 💬 Ask me about **APIs, Databases, .NET , Python, and backend best practices**.
-- 📫 Reach me at: `m.wa7ba@gmail.com`
+- 📫 Reach me at: `mo.wahbadev@gmail.com`
 - ⚡ Fun fact: I enjoy turning tea into backend logic 🫖🍵
 
 ---
@@ -48,6 +48,6 @@
 
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mohamedwahba22)
 [![X](https://img.shields.io/badge/-3moJunior-1DA1F2?style=flat&logo=x&logoColor=black)](https://x.com/3moJunior)
-[![Gmail](https://img.shields.io/badge/-m.wa7ba@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:m.wa7ba@gmail.com)
+[![Gmail](https://img.shields.io/badge/-mo.wahbadev@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:mo.wahbadev@gmail.com)
 
 
