@@ -53,9 +53,6 @@
 
 <p align="center">
   <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=3moJunior&show_icons=true&theme=tokyonight&count_private=true" alt="3moJunior GitHub Stats" />
-  
-  <br>
-
   <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=3moJunior&layout=compact&theme=tokyonight" alt="Top Languages" />
 </p>
 
