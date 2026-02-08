@@ -49,14 +49,18 @@
 ![Postman](https://img.shields.io/badge/-Postman-FF6C37?style=flat&logo=postman&logoColor=white)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black)
 
----
-
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3moJunior&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="3moJunior's GitHub stats" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=3moJunior&show_icons=true&theme=tokyonight&count_private=true" alt="3moJunior GitHub Stats" />
+  
   <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3moJunior&layout=compact&theme=tokyonight&hide_border=true" alt="Top Langs" />
+
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=3moJunior&layout=compact&theme=tokyonight" alt="Top Languages" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3moJunior&theme=tokyonight" alt="3moJunior Streak" />
 </p>
 
 ### 🌐 Connect with me
