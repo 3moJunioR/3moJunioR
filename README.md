@@ -54,7 +54,7 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=3moJunior&show_icons=true&theme=tokyonight&count_private=true" alt="3moJunior's GitHub stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=3moJunior&show_icons=true&theme=tokyonight&count_private=true" alt="3moJunior's GitHub stats" />  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3moJunior&layout=compact&theme=tokyonight" alt="Top Langs" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=3moJunior&layout=compact&theme=tokyonight" alt="Top Langs" />
 </p>
 
