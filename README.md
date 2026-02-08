@@ -52,14 +52,12 @@
 ### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3moJunior&theme=tokyonight" alt="3moJunior Streak" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=3moJunior&show_icons=true&theme=tokyonight&count_private=true&hide_border=true" width="48%" />
+  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=3moJunior&layout=compact&theme=tokyonight&hide_border=true" width="38%" />
 </p>
-<p align="center">
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api?username=3moJunior&show_icons=true&theme=tokyonight&count_private=true" alt="3moJunior GitHub Stats" />
-  
-  <br>
 
-  <img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=3moJunior&layout=compact&theme=tokyonight" alt="Top Languages" />
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=3moJunior&theme=tokyonight&hide_border=true" width="87%" />
 </p>
 
 
